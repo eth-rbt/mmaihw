@@ -2,8 +2,10 @@
 HD-EPIC Kitchens -> VLM Fine-Tuning Dataset Builder
 
 Extracts frames from P01/P02 videos at narration midpoints,
-pairs them with verb+noun action labels, and outputs a JSONL
-dataset ready for Qwen2.5-VL LoRA fine-tuning.
+pairs them with a single canonical verb label (from
+HD_EPIC_verb_classes.csv), and outputs a JSONL dataset
+ready for Qwen2.5-VL LoRA + GRPO fine-tuning with
+exact-match rewards.
 
 Output structure:
   mmai-data/
@@ -20,6 +22,7 @@ Usage:
   python build_dataset.py
 """
 
+import csv
 import json
 import os
 import pickle
@@ -31,6 +34,7 @@ from pathlib import Path
 # ── Paths ──────────────────────────────────────────────────────
 ROOT = Path(__file__).resolve().parent.parent  # mmaihw/
 NARRATIONS_PKL = ROOT / "hdepics_annotations" / "narrations-and-action-segments" / "HD_EPIC_Narrations.pkl"
+VERB_CLASSES_CSV = ROOT / "hdepics_annotations" / "narrations-and-action-segments" / "HD_EPIC_verb_classes.csv"
 VIDEOS = {
     "P01-20240202-110250": ROOT / "hdepic_example" / "P01-20240202-110250.mp4",
     "P02-20240209-184316": ROOT / "hdepic_example" / "P02-20240209-184316.mp4",
@@ -42,12 +46,10 @@ TEST_JSONL = OUTPUT_DIR / "test.jsonl"
 ZIP_PATH = ROOT / "pset3" / "mmai-data.zip"
 
 # ── Sampling ───────────────────────────────────────────────────
-# Keep dataset small: sample every Nth narration per video.
-# P01 has 224 narrations, P02 has 1171.
-# Target ~120 frames total -> P01 every 2nd (~112), P02 every 12th (~98)
+# Use every narration from both videos (all frames).
 SAMPLE_EVERY = {
-    "P01-20240202-110250": 2,
-    "P02-20240209-184316": 12,
+    "P01-20240202-110250": 1,
+    "P02-20240209-184316": 1,
 }
 
 # ── Train/test split ──────────────────────────────────────────
@@ -55,10 +57,20 @@ TEST_RATIO = 0.2  # 20% held out for testing
 SEED = 42
 
 # ── Consistent question prompt ────────────────────────────────
-QUESTION = "What action is being performed?"
+# Single-verb classification so GRPO can use exact-match rewards.
+QUESTION = "Which verb best describes the action in this image? Answer with a single verb."
 
 # ── Frame resolution (keep zip small) ─────────────────────────
 FRAME_WIDTH = 512  # height scales proportionally
+
+
+def load_verb_classes() -> dict:
+    """Return {verb_class_id: canonical_verb_key} (106 classes, single-token)."""
+    mapping = {}
+    with open(VERB_CLASSES_CSV) as f:
+        for row in csv.DictReader(f):
+            mapping[int(row["id"])] = row["key"]
+    return mapping
 
 
 def load_narrations():
@@ -67,8 +79,8 @@ def load_narrations():
         df = pickle.load(f)
 
     df = df[df["video_id"].isin(VIDEOS.keys())].copy()
-    # Drop rows with empty main_actions
-    df = df[df["main_actions"].apply(len) > 0].copy()
+    # Drop rows with empty main_actions / main_action_classes
+    df = df[df["main_action_classes"].apply(len) > 0].copy()
     df = df.sort_values(["video_id", "start_timestamp"]).reset_index(drop=True)
     return df
 
@@ -91,10 +103,10 @@ def extract_frame(video_path: Path, timestamp_sec: float, output_path: Path):
     return True
 
 
-def format_action(main_actions: list) -> str:
-    """Format main_actions list -> 'verb noun' string."""
-    verb, noun = main_actions[0]
-    return f"{verb} {noun}"
+def format_action(main_action_classes: list, verb_key: dict) -> str:
+    """Return the canonical single-word verb for the primary action."""
+    verb_class_id, _noun_class_id = main_action_classes[0]
+    return verb_key[int(verb_class_id)]
 
 
 def create_zip(output_dir: Path, zip_path: Path):
@@ -114,6 +126,9 @@ def main():
     print("Loading narrations...")
     df = load_narrations()
     print(f"  {len(df)} narrations for P01+P02 (after filtering empty actions)")
+
+    verb_key = load_verb_classes()
+    print(f"  Loaded {len(verb_key)} canonical verb classes")
 
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -141,7 +156,7 @@ def main():
             if not ok:
                 continue
 
-            answer = format_action(row["main_actions"])
+            answer = format_action(row["main_action_classes"], verb_key)
             records.append({
                 "image": f"images/{fname}",
                 "question": QUESTION,
@@ -170,6 +185,12 @@ def main():
     print(f"\nDone! {len(train_records)} train + {len(test_records)} test = {len(records)} total")
     print(f"  Train: {TRAIN_JSONL}")
     print(f"  Test:  {TEST_JSONL}")
+
+    # Label distribution (sanity check for GRPO exact-match reward)
+    from collections import Counter
+    counts = Counter(r["answer"] for r in records)
+    print(f"\nLabel distribution: {len(counts)} unique verbs")
+    print("  top 10:", counts.most_common(10))
 
     # Sample entries
     print("\nSample TRAIN entries:")

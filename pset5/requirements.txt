@@ -1,0 +1,10 @@
+openai>=1.93.0
+smolagents>=1.17.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pillow>=10.0.0
+python-dotenv>=1.0.1
+markdownify>=0.13.1
+duckduckgo-search>=6.1.0
+langfuse>=2.58.0
+openinference-instrumentation-smolagents>=0.1.11

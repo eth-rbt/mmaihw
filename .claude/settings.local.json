@@ -6,7 +6,9 @@
       "Bash(ffprobe:*)",
       "mcp__ide__executeCode",
       "Bash(pip install:*)",
-      "Bash(ffmpeg:*)"
+      "Bash(ffmpeg:*)",
+      "Bash(mv /Users/ethrbt/code/mmaihw/pset3/mmai-data /Users/ethrbt/code/mmaihw/pset3/mmai-data-old)",
+      "Bash(mv /Users/ethrbt/code/mmaihw/pset3/mmai-data.zip /Users/ethrbt/code/mmaihw/pset3/mmai-data-old.zip)"
     ]
   }
 }

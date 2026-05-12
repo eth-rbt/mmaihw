@@ -1,42 +1,278 @@
-{"image": "images/P01_00038.jpg", "question": "What action is being performed?", "answer": "close panel of boiler"}
-{"image": "images/P02_00206.jpg", "question": "What action is being performed?", "answer": "place plate"}
-{"image": "images/P01_00101.jpg", "question": "What action is being performed?", "answer": "place juicer bowl"}
-{"image": "images/P01_00086.jpg", "question": "What action is being performed?", "answer": "turn on food processing machine"}
-{"image": "images/P02_00197.jpg", "question": "What action is being performed?", "answer": "open up clip"}
-{"image": "images/P02_00168.jpg", "question": "What action is being performed?", "answer": "adjust potato"}
-{"image": "images/P01_00065.jpg", "question": "What action is being performed?", "answer": "pick up second orange"}
-{"image": "images/P02_00203.jpg", "question": "What action is being performed?", "answer": "pick up spatula"}
-{"image": "images/P02_00169.jpg", "question": "What action is being performed?", "answer": "remove part of onion skin"}
-{"image": "images/P01_00081.jpg", "question": "What action is being performed?", "answer": "rotate dial of food processor"}
-{"image": "images/P01_00004.jpg", "question": "What action is being performed?", "answer": "put mug"}
-{"image": "images/P01_00105.jpg", "question": "What action is being performed?", "answer": "pick up glass"}
-{"image": "images/P01_00043.jpg", "question": "What action is being performed?", "answer": "stir coffee"}
-{"image": "images/P01_00014.jpg", "question": "What action is being performed?", "answer": "pick up scissors"}
-{"image": "images/P01_00062.jpg", "question": "What action is being performed?", "answer": "turn on food processor"}
-{"image": "images/P01_00074.jpg", "question": "What action is being performed?", "answer": "throw half orange skin"}
-{"image": "images/P01_00006.jpg", "question": "What action is being performed?", "answer": "slide coffee capsule"}
-{"image": "images/P01_00022.jpg", "question": "What action is being performed?", "answer": "put down lid"}
-{"image": "images/P02_00210.jpg", "question": "What action is being performed?", "answer": "clean up spill"}
-{"image": "images/P01_00037.jpg", "question": "What action is being performed?", "answer": "hold opened panel of boiler"}
-{"image": "images/P01_00112.jpg", "question": "What action is being performed?", "answer": "rotate bowl"}
-{"image": "images/P02_00141.jpg", "question": "What action is being performed?", "answer": "place food bin"}
-{"image": "images/P02_00153.jpg", "question": "What action is being performed?", "answer": "rotate onion"}
-{"image": "images/P01_00016.jpg", "question": "What action is being performed?", "answer": "pick up second orange"}
-{"image": "images/P01_00046.jpg", "question": "What action is being performed?", "answer": "pick up milk frother"}
-{"image": "images/P02_00183.jpg", "question": "What action is being performed?", "answer": "stir through contents of frying pan"}
-{"image": "images/P01_00003.jpg", "question": "What action is being performed?", "answer": "close cupboard"}
-{"image": "images/P02_00202.jpg", "question": "What action is being performed?", "answer": "pick up chef's knife"}
-{"image": "images/P01_00031.jpg", "question": "What action is being performed?", "answer": "pick up bunch of recyclable green bags"}
-{"image": "images/P02_00170.jpg", "question": "What action is being performed?", "answer": "stir food"}
-{"image": "images/P01_00045.jpg", "question": "What action is being performed?", "answer": "throw wooden stirrer"}
-{"image": "images/P01_00048.jpg", "question": "What action is being performed?", "answer": "rotate milk frother"}
-{"image": "images/P02_00125.jpg", "question": "What action is being performed?", "answer": "rotate tomato"}
-{"image": "images/P02_00178.jpg", "question": "What action is being performed?", "answer": "pick up spatula"}
-{"image": "images/P01_00070.jpg", "question": "What action is being performed?", "answer": "open lid of food recycling bin"}
-{"image": "images/P02_00177.jpg", "question": "What action is being performed?", "answer": "taste food"}
-{"image": "images/P02_00196.jpg", "question": "What action is being performed?", "answer": "stir apple cider vinegar"}
-{"image": "images/P02_00161.jpg", "question": "What action is being performed?", "answer": "pull left hand sleeve"}
-{"image": "images/P01_00090.jpg", "question": "What action is being performed?", "answer": "remove cone"}
-{"image": "images/P02_00124.jpg", "question": "What action is being performed?", "answer": "scoop out seeds"}
-{"image": "images/P01_00061.jpg", "question": "What action is being performed?", "answer": "pick up second half of orange"}
-{"image": "images/P02_00166.jpg", "question": "What action is being performed?", "answer": "place kitchen towel"}
+{"image": "images/P02_00756.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00273.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00449.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "divide"}
+{"image": "images/P02_00315.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "wash"}
+{"image": "images/P01_00135.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "flip"}
+{"image": "images/P02_00619.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "peel"}
+{"image": "images/P02_00892.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P01_00133.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00221.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-off"}
+{"image": "images/P02_01118.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_00357.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scoop"}
+{"image": "images/P02_00596.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00817.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00771.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00566.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "squeeze"}
+{"image": "images/P02_00513.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00828.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00122.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00764.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00785.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00429.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00895.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "remove"}
+{"image": "images/P02_00916.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pour"}
+{"image": "images/P02_00382.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01254.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00358.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00188.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00701.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00387.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrape"}
+{"image": "images/P02_00809.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00525.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P01_00180.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P01_00203.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_01199.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "eat"}
+{"image": "images/P02_01074.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "form"}
+{"image": "images/P01_00185.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00933.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00144.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "press"}
+{"image": "images/P02_00852.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00050.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "press"}
+{"image": "images/P02_01154.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01226.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00126.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "flip"}
+{"image": "images/P02_00829.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrape"}
+{"image": "images/P02_00348.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P01_00100.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrub"}
+{"image": "images/P02_00985.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_00523.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P01_00058.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00950.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00526.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "slide"}
+{"image": "images/P01_00208.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00942.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00397.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P01_00134.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00193.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P01_00215.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_01230.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pour"}
+{"image": "images/P02_00239.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00732.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00670.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00814.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "drop"}
+{"image": "images/P02_00588.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01130.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00966.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00343.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "flip"}
+{"image": "images/P02_01186.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_00521.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00836.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00463.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00355.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scoop"}
+{"image": "images/P02_00509.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "remove"}
+{"image": "images/P02_01159.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00888.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P01_00004.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P01_00154.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00897.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "remove"}
+{"image": "images/P02_00729.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrape"}
+{"image": "images/P02_00368.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_01259.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00443.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "drop"}
+{"image": "images/P02_00401.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scoop"}
+{"image": "images/P02_00483.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00367.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P01_00016.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "slide"}
+{"image": "images/P01_00069.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00734.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00849.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00095.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P01_00127.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_01305.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01243.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00743.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00108.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01106.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_01101.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00944.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "wash"}
+{"image": "images/P02_00516.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00499.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00609.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00374.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_01147.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_00551.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00989.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01187.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_01144.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_01292.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00721.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00033.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "wrap"}
+{"image": "images/P01_00022.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00613.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "hold"}
+{"image": "images/P01_00035.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00396.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00579.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00191.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00710.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00298.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P01_00101.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "insert"}
+{"image": "images/P02_01389.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "wash"}
+{"image": "images/P02_00907.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00938.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00369.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01214.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01242.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00791.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "adjust"}
+{"image": "images/P02_00961.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01092.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P01_00034.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_01334.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P01_00009.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "press"}
+{"image": "images/P01_00113.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "flip"}
+{"image": "images/P02_01240.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00819.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_00962.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00297.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-on"}
+{"image": "images/P02_00232.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00049.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "slide"}
+{"image": "images/P01_00057.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01046.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_01028.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_01112.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-down"}
+{"image": "images/P02_01052.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00848.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00951.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01229.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00270.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "throw"}
+{"image": "images/P02_00812.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01263.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00708.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00435.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "drop"}
+{"image": "images/P02_00990.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_01318.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00342.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00981.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00853.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_00745.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00099.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00987.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_01031.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_00518.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01315.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_00475.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrape"}
+{"image": "images/P02_00783.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "peel"}
+{"image": "images/P02_01174.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_01190.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_00994.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-on"}
+{"image": "images/P02_00592.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "season"}
+{"image": "images/P01_00041.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "press"}
+{"image": "images/P02_00902.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_00238.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00984.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00003.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01075.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_00236.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00495.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "slide"}
+{"image": "images/P02_00749.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00983.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_01266.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00582.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-on"}
+{"image": "images/P02_01321.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_01082.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_01258.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "check"}
+{"image": "images/P02_01380.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scrape"}
+{"image": "images/P02_00691.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01132.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_00700.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "peel"}
+{"image": "images/P02_01047.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00375.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "scoop"}
+{"image": "images/P01_00045.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01340.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01152.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00870.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00545.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-on"}
+{"image": "images/P02_00529.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01244.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00329.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "divide"}
+{"image": "images/P01_00038.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "hold"}
+{"image": "images/P02_00651.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01017.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P01_00092.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_00514.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00911.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00965.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P01_00012.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_00857.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01325.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00244.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00845.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P01_00114.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_00581.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_00725.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01179.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "shake"}
+{"image": "images/P02_00586.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01138.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "adjust"}
+{"image": "images/P02_00936.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_01260.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01308.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00316.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00887.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "divide"}
+{"image": "images/P02_01223.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_00365.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00559.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00575.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P02_01010.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P01_00010.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00698.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00480.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01324.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_00493.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01217.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_01285.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P01_00161.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01322.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01283.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn-down"}
+{"image": "images/P02_00991.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01201.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "open"}
+{"image": "images/P01_00173.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "remove"}
+{"image": "images/P02_01127.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00428.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00858.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "unwrap"}
+{"image": "images/P02_01341.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01005.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00440.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "adjust"}
+{"image": "images/P01_00178.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01363.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00850.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00597.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_01145.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01133.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "search"}
+{"image": "images/P02_01178.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "mix"}
+{"image": "images/P02_01086.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00863.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00810.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P01_00223.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "turn"}
+{"image": "images/P02_01097.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01034.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01016.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "season"}
+{"image": "images/P02_00617.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00299.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_00751.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01161.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_00712.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01059.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01188.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pull"}
+{"image": "images/P02_01129.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "close"}
+{"image": "images/P02_00650.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_01116.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "take"}
+{"image": "images/P02_00555.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "break"}
+{"image": "images/P02_01216.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "add"}
+{"image": "images/P02_01007.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_00781.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "peel"}
+{"image": "images/P01_00023.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
+{"image": "images/P02_01247.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "pat"}
+{"image": "images/P02_01378.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "move"}
+{"image": "images/P02_01203.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "unscrew"}
+{"image": "images/P02_00790.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "cut"}
+{"image": "images/P02_01249.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "lift"}
+{"image": "images/P02_00655.jpg", "question": "Which verb best describes the action in this image? Answer with a single verb.", "answer": "put"}
